@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="40" alt="ocaml logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="https://rust-lang.org/logos/rust-logo-512x512.png" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
   <img width="12" />
