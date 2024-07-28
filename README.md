@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning about Transformers.js, backend engineering, and distributed systems<br>🎯 Goals: Make software people enjoy using<br>🎲 Fun fact: My favorite board game is Azul</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning about Go, secure API development, and Terraform.<br>🎯 Goals: Make software people enjoy using<br>🎲 Fun fact: My favorite board game is Azul</p>
 
 ###
 
