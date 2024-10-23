@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @adamkhalaf
-- 👀 I’m interested in computer and network security, automation, and home networking
-- 🌱 I’m currently learning about network security, VPNs, and censorship
-- 📫 You can reach me through email or twitter, both of which are [on my website](https://adamkhalaf.github.io)
+[adamkhalaf.com](https://adamkhalaf.com)
